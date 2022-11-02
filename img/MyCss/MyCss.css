@@ -1,0 +1,18 @@
+
+/*HTML元素*/
+body{
+    font-size: 1.5rem;
+}
+/*CLASS*/
+.req-cls{
+    color: #b5d9dc;
+}
+/*ID*/
+#hate{
+    color: coral;
+}
+/*A*/
+a{
+    color: #00ffa9;
+    text-decoration: #b5d9dc;
+}
